@@ -16,7 +16,7 @@ var paths = {
     assets: "assets/",
     html: "index.html",
     img: "img/**",
-    js: "js/**/*.js",
+    js: "js/*.js",
 
     components: "js/components/**.js",
 
